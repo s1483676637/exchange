@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Exchange-app/Exchange-app.iml" filepath="$PROJECT_DIR$/Exchange-app/Exchange-app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/goods_exchange-master.iml" filepath="$PROJECT_DIR$/goods_exchange-master.iml" />
+    </modules>
+  </component>
+</project>
